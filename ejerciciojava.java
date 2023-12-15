@@ -9,7 +9,7 @@ public static void main(String[] args) {
     sc.close();
     }
     System.out.println("Este programa realiza el producto de los 10 primeros números impares, el total es: " + multiplo);
-
+    //comentario añadido al inicio de la declaración de variables
 
 }
 
