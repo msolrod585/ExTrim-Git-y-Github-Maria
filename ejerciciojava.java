@@ -1,5 +1,6 @@
 
 public static void main(String[] args) {
+    //Se añadirá el enunciado del ejercicio próximamente
     Scanner sc = new Scanner(System.in);
     System.out.println("Este programa realiza el producto de los 10 primeros números impares ");
     int i;
